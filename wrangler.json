@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "gfernandesfrota",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "d45cb9b0-4eac-4326-8588-ee784b27b83d",
+			"database_name": "gfernandesbancodedados"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
